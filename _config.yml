@@ -21,7 +21,6 @@ email: m.riyan144@gmail.com
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
 github_username: mochriyan
-dev_username: exampleUser
 linkedin_username: exampleUser
 twitter_username: MochRiyan_
 
@@ -31,9 +30,20 @@ twitter_username: MochRiyan_
 # > setting this to false, will omit the About Me section
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
-about_me_title: About Me
+about_me_title: Tentang Saya
 # about_me_description: This will be displayed under the title.
-about_me_description: Hallo, nama saya Mochammad Riyan Saifuddin, biasa dipanggil Riyan. Saya merupakan mahasiswa jurusan <a class="highlight-link" href="http://uin-suska.ac.id/" target="_blank" rel="noreferrer">JUIN Suska Riau</a>   You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="http://sif.uin-suska.ac.id/" target="_blank" rel="noreferrer">Sistem Informasi</a> di <a class="highlight-link" href="http://uin-suska.ac.id/" target="_blank" rel="noreferrer">UIN Suska Riau</a>. 
+about_me_description: Hallo, nama saya Mochammad Riyan Saifuddin, biasa dipanggil Riyan. Saya merupakan mahasiswa jurusan <a class="highlight-link" href="http://sif.uin-suska.ac.id/" target="_blank" rel="noreferrer">Sistem Informasi</a> di <a class="highlight-link" href="http://uin-suska.ac.id/" target="_blank" rel="noreferrer">UIN Suska Riau</a>. 
+
+
+# ABOUT ME SECTION
+# show_aboutme_card:
+# > setting this to true, will display the About Me section
+# > setting this to false, will omit the About Me section
+show_aboutme_card: true
+# about_me_title: The will be displayed as the title in the About Me section
+about_me_title: Tentang Saya
+# about_me_description: This will be displayed under the title.
+about_me_description: Hallo, nama saya Mochammad Riyan Saifuddin, biasa dipanggil Riyan. Saya merupakan mahasiswa jurusan <a class="highlight-link" href="http://sif.uin-suska.ac.id/" target="_blank" rel="noreferrer">Sistem Informasi</a> di <a class="highlight-link" href="http://uin-suska.ac.id/" target="_blank" rel="noreferrer">UIN Suska Riau</a>. 
 
 # SKILLS SECTION
 # show_skills_card:
@@ -49,7 +59,7 @@ skills_title: Skills
 # > setting this to false, will omit the Timeline section
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: Education & Experience
+timeline_title: Edukasi
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
 cv_download_link: https://example.com/
