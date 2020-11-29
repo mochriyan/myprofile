@@ -34,22 +34,11 @@ about_me_title: Tentang Saya
 # about_me_description: This will be displayed under the title.
 about_me_description: Hallo, nama saya Mochammad Riyan Saifuddin, biasa dipanggil Riyan. Saya merupakan mahasiswa jurusan <a class="highlight-link" href="http://sif.uin-suska.ac.id/" target="_blank" rel="noreferrer">Sistem Informasi</a> di <a class="highlight-link" href="http://uin-suska.ac.id/" target="_blank" rel="noreferrer">UIN Suska Riau</a>. 
 
-
-# ABOUT ME SECTION
-# show_aboutme_card:
-# > setting this to true, will display the About Me section
-# > setting this to false, will omit the About Me section
-show_aboutme_card: true
-# about_me_title: The will be displayed as the title in the About Me section
-about_me_title: Tentang Saya
-# about_me_description: This will be displayed under the title.
-about_me_description: Hallo, nama saya Mochammad Riyan Saifuddin, biasa dipanggil Riyan. Saya merupakan mahasiswa jurusan <a class="highlight-link" href="http://sif.uin-suska.ac.id/" target="_blank" rel="noreferrer">Sistem Informasi</a> di <a class="highlight-link" href="http://uin-suska.ac.id/" target="_blank" rel="noreferrer">UIN Suska Riau</a>. 
-
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
 # > setting this to false, will omit the Skills section
-show_skills_card: false
+show_skills_card: true
 # about_me_title: The will be displayed as the title in the Skills section
 skills_title: Skills
 
@@ -57,7 +46,7 @@ skills_title: Skills
 # show_timeline_card:
 # > setting this to true, will display the Timeline section
 # > setting this to false, will omit the Timeline section
-show_timeline_card: false
+show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
 timeline_title: Edukasi
 # cv_download_link: The link where you host your cv.
@@ -119,7 +108,7 @@ projects:
 # Set the id, if you want to track your website with Google Analytics
 # > set this to "", if you do not want to track with Google Analytics
 google-analytics:
-  id: "UA-158757509-2"
+  id: ""
 
 ### END OF VALUES YOU SHOULD CHANGE ###
 
