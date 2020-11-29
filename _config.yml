@@ -14,7 +14,7 @@ baseurl: "/myprofile"
 username: Moch. Riyan
 # typing_text: This will be typed before 'Selamat Datang'.
 # > set this to your job title, e.g. Mahasiswa
-typing_text: Jekyll Theme
+typing_text: Mahasiswa
 # email: Your E-Mail address for the email button.
 email: m.riyan144@gmail.com
 # For every social button you want to display, set your username or userid
@@ -49,7 +49,7 @@ about_me_description: Hallo, nama saya Mochammad Riyan Saifuddin, biasa dipanggi
 # show_skills_card:
 # > setting this to true, will display the Skills section
 # > setting this to false, will omit the Skills section
-show_skills_card: true
+show_skills_card: false
 # about_me_title: The will be displayed as the title in the Skills section
 skills_title: Skills
 
@@ -57,7 +57,7 @@ skills_title: Skills
 # show_timeline_card:
 # > setting this to true, will display the Timeline section
 # > setting this to false, will omit the Timeline section
-show_timeline_card: true
+show_timeline_card: false
 # timeline_title: The will be displayed as the title in the Timeline section
 timeline_title: Edukasi
 # cv_download_link: The link where you host your cv.
@@ -90,12 +90,12 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
+contact_description: Untuk informasi lebih lanjut, hubungi kontak dibawah ini.
 
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: longpdo/neumorphism
+repository: mochriyan/myprofile
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
